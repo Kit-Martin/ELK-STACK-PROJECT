@@ -1,0 +1,2 @@
+# ELK-STACK-PROJECT
+Documentation of ELK-STACK-PROJECT
